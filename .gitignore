@@ -1,1 +1,9 @@
 *.bak
+sample_drawings.pdf
+window-floor-plan-symbols.webp
+pages
+cubicasa5k
+dataset_images
+.ipynb_checkpoints
+dataset
+floor_plans_500_yolov8
