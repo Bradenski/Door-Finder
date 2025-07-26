@@ -7,3 +7,4 @@ dataset_images
 .ipynb_checkpoints
 dataset
 floor_plans_500_yolov8
+*.pt
