@@ -1,0 +1,10 @@
+# Custom Trunk Tools Door Detection Dataset Configuration
+
+path: "trunk_tools_yolov8" 
+train: train/images
+val: val/images
+test: test/images
+
+# Classes
+nc: 1          # number of classes
+names: [0] 
