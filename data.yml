@@ -1,0 +1,10 @@
+# Door Detection Dataset Configuration
+
+path: dataset 
+train: train/images
+val: val/images
+test: test/images
+
+# Classes
+nc: 1          # number of classes
+names: [0] 
